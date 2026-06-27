@@ -66,16 +66,20 @@ VP CORP arriba-izq. Titular 2 líneas (1ª blanca / 2ª degradado verde→azul).
   recibimos, consolidamos y enviamos a Venezuela. 📲 +1 (786) 448-1426
   `#CasilleroMiami #ComprasOnline #VPCorp`
 
-### F-06 · Testimonio (social proof)
-- **Pilar:** Testimonios
-- **PROMPT:** "Warm portrait-style background, satisfied customer receiving a package at home
-  in a Venezuelan setting, soft navy gradient frame, realistic, space for quote."
-- **OVERLAY:** Comillas grandes. Cita: "Llevamos años enviando con VARPAL. Siempre puntuales."
-  Nombre + ciudad (pedir permiso real). ⭐⭐⭐⭐⭐. CTA "Únete por WhatsApp".
-- **CAPTION:** 💬 Nuestros clientes hablan por nosotros. Gracias por confiar tu carga a VARPAL.
-  ¿Listo para tu primer envío? 📲 +1 (786) 448-1426
-  `#Testimonios #CargaConfiable #VPCorp`
-  > ⚠️ Requiere permiso firmado del cliente antes de publicar (ver backlog Notion: Maria Irrael).
+### F-06 · Confianza / proceso seguro (default) — Testimonio solo con permiso firmado
+- **Pilar:** Confianza
+- **Regla:** publicar testimonio **únicamente con permiso firmado** del cliente. Si no hay
+  permiso → usar la versión de **confianza/proceso seguro** (default, abajo).
+- **PROMPT (default confianza):** "Hands carefully sealing and handling a labeled cardboard
+  box in a clean, well-lit warehouse, sense of care and security, navy gradient background,
+  realistic logistics photography, space for text."
+- **OVERLAY (default):** Titular `TU CARGA / EN BUENAS MANOS`. Features: Manejo cuidadoso ·
+  Proceso seguro · Atención real. CTA "Escríbenos por WhatsApp".
+- **CAPTION (default):** 🤝 En cada envío cuidamos tu carga como si fuera nuestra. Proceso
+  claro, manejo seguro y un equipo real que te atiende. 📲 +1 (786) 448-1426
+  `#CargaConfiable #ProcesoSeguro #VPCorp`
+- **Variante testimonio (solo con permiso firmado):** comillas grandes + cita textual real +
+  nombre/ciudad autorizados + ⭐⭐⭐⭐⭐. Sin promesas absolutas.
 
 ### F-07 · Seguimiento en tiempo real
 - **Pilar:** Educación / Confianza

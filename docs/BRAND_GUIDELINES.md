@@ -60,7 +60,10 @@ línea a mantener.** El antiguo set plano "VARPAL" navy/cyan fue retirado (no us
 ## Reglas
 
 - No mezclar con la antigua línea plana "VARPAL" navy/cyan.
-- No usar logos ni marcas de terceros sin permiso.
+- No usar logos ni marcas de terceros (Amazon, Shein, navieras, aerolíneas, etc.).
+- ⛔ **Sin promesas absolutas** ("siempre", "garantizado", "100%", "el más barato"). Usar
+  lenguaje realista ("rápido y confiable", "te asesoramos", "planifica con tiempo").
+- Testimonios: **solo con permiso firmado** del cliente (cita y nombre reales autorizados).
 - El teléfono que va en arte es **+1 (786) 448-1426** (nunca el bot 396-3095).
 - Mantener fotografía realista y coherente (almacén/logística), no clipart.
 - ⛔ **NUNCA mostrar precios/tarifas** en el arte ni en captions. Las tarifas se dan solo
