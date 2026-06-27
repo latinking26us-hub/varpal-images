@@ -94,7 +94,7 @@ CTA estándar → WhatsApp **+1 (786) 448-1426** · varpalcorp.net
   > Son pedacitos de Venezuela que tu familia extraña todos los días.
   >
   > En Varpal Group nos encargamos de que esos sabores crucen el mar sin perder su esencia.
-  > Empacamos con cuidado, enviamos puerta a puerta en 5-8 días y te damos tracking 24/7
+  > Empacamos con cuidado, enviamos puerta a puerta en 3 a 5 días y te damos tracking 24/7
   > para que sepas que llegó completo.
   >
   > Porque a veces, un paquete con Harina PAN vale más que mil llamadas.
@@ -102,8 +102,9 @@ CTA estándar → WhatsApp **+1 (786) 448-1426** · varpalcorp.net
   > Escríbenos por DM y arma tu próxima caja de nostalgia.
   >
   > #VenezolanosEnMiami #EnviosAVenezuela #SaborVenezolano #Nostalgia #VarpalGroup #PuertaAPuerta #Miami
-- **A confirmar:** (1) plazo "5-8 días" vs guía (aéreo 3-5 / marítimo 20-25); (2) CTA DM vs
-  WhatsApp; (3) en el arte usar productos genéricos, sin logos de terceros.
+- **Confirmado por Saúl:** plazo ajustado a "3 a 5 días"; el resto del copy queda tal cual
+  (CTA por DM, menciones de productos en texto). En el arte: productos genéricos, sin logos
+  de terceros.
 
 ---
 
