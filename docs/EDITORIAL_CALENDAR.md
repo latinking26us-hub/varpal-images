@@ -81,6 +81,30 @@ CTA estándar → WhatsApp **+1 (786) 448-1426** · varpalcorp.net
   > 📲 Escríbenos por WhatsApp: +1 (786) 448-1426
   > #AtencionAlCliente #EnviosMiami #VenezolanosEnMiami #VPCorp
 
+## POST 09 — Sabor a casa (nostalgia / emocional)
+- **Asset:** `assets/instagram/post-09-sabor-a-casa.png` (pendiente de generar)
+- **Pilar:** Nostalgia / Emocional · **Formato:** Single image · **Fecha sugerida:** Sáb
+- **CTA:** Escríbenos por DM *(¿unificar a WhatsApp? — a confirmar)*
+- **Caption (texto de Saúl, verbatim):**
+  > Ese sabor a casa, sin escalas.
+  >
+  > Hay cosas que no se explican. El olor del café El Peñón en la mañana. Una arepa con
+  > Diablitos a las 3pm. La Toddy de los chamos antes de dormir.
+  >
+  > Son pedacitos de Venezuela que tu familia extraña todos los días.
+  >
+  > En Varpal Group nos encargamos de que esos sabores crucen el mar sin perder su esencia.
+  > Empacamos con cuidado, enviamos puerta a puerta en 5-8 días y te damos tracking 24/7
+  > para que sepas que llegó completo.
+  >
+  > Porque a veces, un paquete con Harina PAN vale más que mil llamadas.
+  >
+  > Escríbenos por DM y arma tu próxima caja de nostalgia.
+  >
+  > #VenezolanosEnMiami #EnviosAVenezuela #SaborVenezolano #Nostalgia #VarpalGroup #PuertaAPuerta #Miami
+- **A confirmar:** (1) plazo "5-8 días" vs guía (aéreo 3-5 / marítimo 20-25); (2) CTA DM vs
+  WhatsApp; (3) en el arte usar productos genéricos, sin logos de terceros.
+
 ---
 
 ## Tabla resumen (para Notion / Calendario Editorial Meta)

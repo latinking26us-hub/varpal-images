@@ -69,6 +69,16 @@ entre comillas (pídele "spelled exactly, no typos"). Feed = 1:1 1080×1080 · S
 > "CONSOLIDA" / "Y AHORRA". Features: "Menos costo · Un solo trámite · Más práctico". Botón
 > "Cotiza por WhatsApp · +1 (786) 448-1426". Sin cifras ni precios.
 
+**F-09 · Sabor a casa (nostalgia)**
+> Escena cálida y emotiva: una caja de cartón abierta sobre una mesa de cocina hogareña,
+> llena de productos de mercado venezolanos GENÉRICOS (harina de maíz, café, snacks, bebida
+> en polvo) SIN logos ni marcas de terceros; luz cálida de mañana, sensación de hogar y
+> nostalgia, con el sutil fondo navy/degradado y branding VP CORP. Titular: línea 1
+> "SABOR A CASA" (blanco) / línea 2 "SIN ESCALAS" (degradado verde→azul). Ruta Miami →
+> Venezuela. Features pequeñas: "Empaque cuidadoso · Puerta a puerta · Tracking 24/7".
+> Botón verde estilo WhatsApp: "Escríbenos · +1 (786) 448-1426". Sin precios, sin marcas
+> de terceros, todo el texto exacto en español.
+
 ---
 
 ## STORIES (9:16)
