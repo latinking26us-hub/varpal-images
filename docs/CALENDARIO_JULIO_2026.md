@@ -11,18 +11,24 @@ sin venta agresiva. Copy **exacto** de Saúl (verbatim) — no editar sin su ord
 3. **Crisis en Venezuela → PAUSAR TODO y avisar a Saúl.** Solo contenido humanitario.
 4. **Horarios fijos. No cambiar.**
 
-## Imágenes (9) — soltar los PNG en `assets/instagram/julio-2026/`
+## Imágenes (9) — ✅ subidas en `main`, carpeta `julio-2026/` (públicas)
+URL base: `https://raw.githubusercontent.com/latinking26us-hub/varpal-images/main/julio-2026/`
+
 | # | Archivo | Estado |
 |---|---|---|
-| 1 | VARPAL_LUN_JUL06_TU_AMOR.png | ⏳ pendiente |
-| 2 | VARPAL_MAR_JUL07_NEGOCIO_SIN_FRONTERAS.png | ⏳ pendiente |
-| 3 | VARPAL_JUE_JUL09_CADA_DETALLE.png | ⏳ pendiente |
-| 4 | VARPAL_LUN_JUL13_SABOR_A_CASA.png | ⏳ pendiente |
-| 5 | VARPAL_MAR_JUL14_TODO_EN_UN_ENVIO.png | ⏳ pendiente |
-| 6 | VARPAL_MIE_JUL15_AGRUPA_PROTEGE.png (solo historia) | ⏳ pendiente |
-| 7 | VARPAL_LUN_JUL20_CUANDO_NO_PUEDES.png | ⏳ pendiente |
-| 8 | VARPAL_MAR_JUL21_DE_PROVEEDOR.png | ⏳ pendiente |
-| 9 | VARPAL_LUN_JUL27_DESCANSA.png | ⏳ pendiente |
+| 1 | VARPAL_LUN_JUL06_TU_AMOR.png | ✅ pública |
+| 2 | VARPAL_MAR_JUL07_NEGOCIO_SIN_FRONTERAS.png | ✅ pública |
+| 3 | VARPAL_JUE_JUL09_CADA_DETALLE.png | ✅ pública |
+| 4 | VARPAL_LUN_JUL13_SABOR_A_CASA.png | ✅ pública |
+| 5 | VARPAL_MAR_JUL14_TODO_EN_UN_ENVIO.png | ✅ pública |
+| 6 | VARPAL_MIE_JUL15_AGRUPA_PROTEGE.png (solo historia) | ✅ pública |
+| 7 | VARPAL_LUN_JUL20_CUANDO_NO_PUEDES.png | ✅ pública |
+| 8 | VARPAL_MAR_JUL21_DE_PROVEEDOR.png | ✅ pública |
+| 9 | VARPAL_LUN_JUL27_DESCANSA.png | ✅ pública |
+| — | CONTACT_SHEET_9.png (resumen visual) | ✅ pública |
+
+> ⚠️ **Pendiente alinear plazo:** las imágenes muestran "3 a 5 días", pero los captions 1, 2,
+> 4 y 5 dicen "5-8 días". Decidir uno solo (recomendado: 3 a 5 días para que coincida con el arte).
 
 ---
 
