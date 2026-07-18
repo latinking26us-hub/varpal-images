@@ -10,7 +10,7 @@
 1. Marca: solo **"Varpal Group"**. NUNCA "VPCORP".
 2. **Sin precios** en arte ni comentarios. Pide precio → "Te escribo por DM".
 3. Plazo oficial: **3 a 5 días** (confirmado por Saúl).
-4. Contacto: WhatsApp **+1 (786) 448-1426** (396-3095 = BOT, no va en arte) · info@varpalcorp.net.
+4. Contacto: WhatsApp **+1 (786) 448-1426** (396-3095 = BOT, no va en arte) · info@varpalcorp.com.
 5. Crisis en Venezuela → PAUSAR todo y avisar a Saúl. Solo humanitario.
 6. Tono humano, sin venta agresiva, sin promesas absolutas, sin logos de terceros.
 

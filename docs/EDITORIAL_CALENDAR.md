@@ -6,7 +6,7 @@ Mapeo de cada asset a su publicación. Estado: `draft` = borrador listo para rev
 Hashtags base: `#EnviosMiami #EnviosVenezuela #VARPAL #VPCorp #CourierMiamiVenezuela
 #FleteAereo #FleteMaritimo #VenezolanosEnMiami #EncomiendasAVenezuela`
 
-CTA estándar → WhatsApp **+1 (786) 448-1426** · varpalcorp.net
+CTA estándar → WhatsApp **+1 (786) 448-1426** · varpalcorp.com
 
 > ⛔ **Regla:** NO mostrar precios/tarifas en el arte ni en captions. Sí se pueden usar
 > días de salida, fechas de corte y cálculo de peso volumétrico. Para tarifas → "cotiza
@@ -23,7 +23,7 @@ CTA estándar → WhatsApp **+1 (786) 448-1426** · varpalcorp.net
   > Usa tu casillero en Miami, recibe tus compras y nosotros las enviamos hasta tu destino.
   > Fácil, seguro y con seguimiento en todo momento.
   > 📲 Cotiza por WhatsApp: +1 (786) 448-1426
-  > 🌐 varpalcorp.net
+  > 🌐 varpalcorp.com
   > #ComprasOnline #CasilleroMiami #EnviosVenezuela #VPCorp
 
 ## POST 02 — Puerta a puerta

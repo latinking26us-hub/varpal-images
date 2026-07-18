@@ -4,7 +4,7 @@ Para producción de **8 posts de feed (1:1)** + **4 stories (9:16)** que complem
 piezas ya existentes en `assets/instagram/`. Seguir `BRAND_GUIDELINES.md` al pie.
 
 Reglas aplicadas: **sin precios/tarifas**. Sí: días de salida, fechas de corte, cálculo de
-peso volumétrico. Contacto en arte: WhatsApp **+1 (786) 448-1426** · varpalcorp.net. Logo
+peso volumétrico. Contacto en arte: WhatsApp **+1 (786) 448-1426** · varpalcorp.com. Logo
 VP CORP arriba-izq. Titular 2 líneas (1ª blanca / 2ª degradado verde→azul). CTA verde WhatsApp.
 
 > Cada brief trae: **PROMPT** (base fotográfica IA) + **OVERLAY** (texto/elementos a montar

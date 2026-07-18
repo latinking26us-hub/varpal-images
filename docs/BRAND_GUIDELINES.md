@@ -8,10 +8,10 @@ línea a mantener.** El antiguo set plano "VARPAL" navy/cyan fue retirado (no us
 - **Nombre comercial / razón social:** VARPAL Group Corporation
 - **Marca visual / handle:** VP CORP · Import & Export
 - **Ruta:** Miami (USA) → Venezuela
-- **Dominio:** varpalcorp.net
+- **Dominio:** varpalcorp.com
 - **WhatsApp público (contacto humano / WA Business):** +1 (786) 448-1426
 - **Bot WhatsApp (NO usar en arte):** +1 (786) 396-3095
-- **Email:** info@varpalcorp.net
+- **Email:** info@varpalcorp.com
 
 ## Logo
 

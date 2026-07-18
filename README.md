@@ -44,4 +44,4 @@ Todas 1254×1254, formato 1:1, línea gráfica VP CORP (ver `docs/BRAND_GUIDELIN
 
 ## Contacto
 
-VARPAL Group Corporation · Miami, FL · WhatsApp +1 (786) 448-1426 · info@varpalcorp.net · varpalcorp.net
+VARPAL Group Corporation · Miami, FL · WhatsApp +1 (786) 448-1426 · info@varpalcorp.com · varpalcorp.com
