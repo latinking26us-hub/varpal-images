@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blindaje Legal para tu App SaaS — Checklist de 4 Protecciones</title>
+  <style>
+    :root {
+      --ink: #1a1a2e;
+      --accent: #e63946;
+      --text: #333;
+      --muted: #888;
+      --soft: #f4f5f7;
+      --border: #e2e4e8;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      max-width: 820px;
+      margin: 0 auto;
+      padding: 40px 20px 80px;
+      color: var(--text);
+      line-height: 1.65;
+    }
+    h1 {
+      color: var(--ink);
+      border-bottom: 2px solid var(--accent);
+      padding-bottom: 12px;
+      font-size: 1.85em;
+      line-height: 1.3;
+    }
+    h2 {
+      color: var(--ink);
+      margin-top: 48px;
+      font-size: 1.35em;
+      padding-top: 8px;
+    }
+    h3 { color: var(--ink); margin-top: 26px; font-size: 1.05em; }
+    p { margin: 12px 0; }
+    a { color: var(--accent); word-break: break-word; }
+    ul, ol { margin: 12px 0; padding-left: 22px; }
+    li { margin: 6px 0; }
+    .updated { color: var(--muted); font-size: 0.9em; margin-bottom: 24px; }
+
+    .disclaimer {
+      background: #fff7e6;
+      border: 1px solid #f0c14b;
+      border-left: 4px solid #f0a500;
+      border-radius: 6px;
+      padding: 16px 18px;
+      margin: 24px 0;
+      font-size: 0.95em;
+    }
+    .disclaimer strong { color: #a15c00; }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+      font-size: 0.93em;
+    }
+    th, td {
+      border: 1px solid var(--border);
+      padding: 10px 12px;
+      text-align: left;
+      vertical-align: top;
+    }
+    th { background: var(--ink); color: #fff; font-weight: 600; }
+    tbody tr:nth-child(even) { background: var(--soft); }
+    .num { text-align: center; font-weight: 700; color: var(--accent); width: 36px; }
+
+    .table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+    .tip {
+      background: var(--soft);
+      border-left: 4px solid var(--accent);
+      padding: 14px 16px;
+      border-radius: 4px;
+      margin: 18px 0;
+      font-style: italic;
+    }
+    .good {
+      background: #eaf7ee;
+      border-left: 4px solid #2e9e4f;
+      padding: 14px 16px;
+      border-radius: 4px;
+      margin: 18px 0;
+    }
+
+    details {
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 4px 16px;
+      margin: 18px 0;
+      background: #fafbfc;
+    }
+    details[open] { padding-bottom: 16px; }
+    summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: var(--ink);
+      padding: 12px 0;
+      list-style: none;
+    }
+    summary::-webkit-details-marker { display: none; }
+    summary::before { content: "▸ "; color: var(--accent); }
+    details[open] summary::before { content: "▾ "; }
+    .clause {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 0.93em;
+      background: #fff;
+      border: 1px dashed var(--border);
+      border-radius: 4px;
+      padding: 14px 16px;
+      color: #444;
+    }
+    .clause + .note { font-size: 0.88em; color: var(--muted); margin-top: 10px; }
+
+    .checklist { list-style: none; padding-left: 0; }
+    .checklist li {
+      padding: 8px 0 8px 30px;
+      position: relative;
+      border-bottom: 1px solid var(--border);
+    }
+    .checklist li::before {
+      content: "☐";
+      position: absolute;
+      left: 0;
+      font-size: 1.2em;
+      color: var(--accent);
+    }
+
+    .toc {
+      background: var(--soft);
+      border-radius: 6px;
+      padding: 14px 20px;
+      margin: 24px 0;
+    }
+    .toc strong { color: var(--ink); }
+    .toc ol { margin: 8px 0 0; }
+
+    footer {
+      margin-top: 56px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 0.9em;
+    }
+    footer strong { color: var(--ink); }
+  </style>
+</head>
+<body>
+
+  <h1>🛡️ Blindaje Legal para tu App SaaS<br>Checklist de 4 Protecciones</h1>
+  <p class="updated">Guía educativa — 2026</p>
+
+  <div class="disclaimer">
+    <strong>⚠️ Esto NO es asesoría legal.</strong> No soy abogado y este documento no
+    sustituye a uno. Es un checklist práctico para que entiendas los riesgos más comunes
+    al lanzar un SaaS en EE.UU. y sepas qué preguntarle a un abogado. Antes de publicar
+    cualquier cláusula, que la revise un profesional.
+  </div>
+
+  <p>Lanzaste tu app. Felicidades. Ahora viene la parte que casi nadie te cuenta: lo
+  legal. Aquí tienes las <strong>4 protecciones</strong> que más demandas evitan,
+  ordenadas y explicadas con el paso a paso, las plantillas y los links oficiales.</p>
+
+  <div class="toc">
+    <strong>Contenido</strong>
+    <ol>
+      <li><a href="#p1">Cuidado con lo que prometes de tu IA (FTC)</a></li>
+      <li><a href="#p2">Cláusula de arbitraje en tus Términos de Servicio</a></li>
+      <li><a href="#p3">Etiquetas de privacidad (Apple, Google y CCPA)</a></li>
+      <li><a href="#p4">Agente DMCA — la más barata y la más poderosa</a></li>
+      <li><a href="#final">Checklist final</a></li>
+    </ol>
+  </div>
+
+  <h2>Resumen rápido</h2>
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Riesgo</th>
+          <th>Qué te puede costar</th>
+          <th>Qué lo resuelve</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="num">1</td>
+          <td>Exagerar lo que hace tu IA</td>
+          <td>Hasta $53,088 por infracción (FTC)</td>
+          <td>Claims de IA reales y verificables</td>
+        </tr>
+        <tr>
+          <td class="num">2</td>
+          <td>Sin cláusula de arbitraje</td>
+          <td>Demanda colectiva (class action)</td>
+          <td>Cláusula de arbitraje + renuncia a colectivas</td>
+        </tr>
+        <tr>
+          <td class="num">3</td>
+          <td>No declarar los datos que recolectas</td>
+          <td>Baja de la tienda + CCPA</td>
+          <td>Etiquetas de privacidad Apple/Google + política</td>
+        </tr>
+        <tr>
+          <td class="num">4</td>
+          <td>Contenido subido por usuarios</td>
+          <td>Hasta $150,000 por obra</td>
+          <td>Agente DMCA ($6) + cláusula de takedown</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2 id="p1">1. Cuidado con lo que prometes de tu IA (FTC)</h2>
+
+  <h3>El riesgo real</h3>
+  <p>Mucha gente cree que la FTC te multa "por usar IA y no declararlo". Eso no es así.
+  Usar IA en tu producto y no anunciarlo no es ilegal. Lo que la FTC persigue es el
+  llamado <strong>AI washing</strong>: hacer afirmaciones falsas o exageradas sobre lo
+  que tu IA hace.</p>
+
+  <p>Ejemplos que <strong>sí</strong> te meten en problemas:</p>
+  <ul>
+    <li>"Nuestra IA elimina todo sesgo" (cuando no puedes probarlo).</li>
+    <li>"Precisión del 99%" sin datos que lo respalden.</li>
+    <li>Usar IA para generar reseñas o testimonios falsos sin declararlo.</li>
+    <li>Llamar "IA" a algo que en realidad es un equipo de personas o reglas simples.</li>
+  </ul>
+
+  <h3>Cuánto cuesta</h3>
+  <p>El tope de multa civil de la FTC para 2026 es de <strong>$53,088 por
+  infracción</strong>, y en incumplimientos continuos cada día puede contar como una
+  infracción separada. Importante: estas multas aplican típicamente a violaciones con
+  conocimiento de una regla o al incumplir una orden previa de la FTC. En un primer caso,
+  la FTC suele emitir primero una orden de cese; las multas grandes llegan cuando ignoras
+  esa orden.</p>
+
+  <h3>La solución</h3>
+  <ol>
+    <li>Revisa tu landing page y tu copy de marketing.</li>
+    <li>Asegúrate de que cada afirmación sobre tu IA sea real y demostrable.</li>
+    <li>Si no puedes respaldar un número o una promesa, quítalo o suavízalo.</li>
+    <li>Si usas IA para generar contenido que parece testimonio o reseña, decláralo.</li>
+  </ol>
+
+  <div class="tip">💡 La regla mental: no tienes que esconder que usas IA, pero no puedes
+  mentir sobre lo que hace.</div>
+
+  <h3>Links de referencia</h3>
+  <ul>
+    <li>FTC — Mantén tus claims de IA bajo control:
+      <a href="https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check" target="_blank" rel="noopener">ftc.gov/…/keep-your-ai-claims-check</a></li>
+    <li>FTC — Endorsement Guides:
+      <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener">ftc.gov/…/endorsement-guides</a></li>
+  </ul>
+
+  <h2 id="p2">2. Cláusula de arbitraje en tus Términos de Servicio</h2>
+
+  <h3>El riesgo</h3>
+  <p>Sin una cláusula de arbitraje con renuncia a demandas colectivas, un solo usuario
+  molesto puede intentar convertir su queja en una <em>class action</em> en nombre de
+  todos tus usuarios. Eso es caro y lento.</p>
+
+  <h3>Qué hace la cláusula</h3>
+  <p>Obliga a resolver disputas por arbitraje individual en lugar de tribunales, y
+  prohíbe que los reclamos se agrupen en una colectiva.</p>
+
+  <h3>La realidad (sé honesto contigo mismo)</h3>
+  <p>No es un escudo mágico de "una sola línea":</p>
+  <ul>
+    <li>Su redacción importa y su validez depende de la jurisdicción.</li>
+    <li>Existe la <em>mass arbitration</em>: miles de arbitrajes individuales coordinados
+    que también salen caros.</li>
+    <li>Aun así, es una de las protecciones estándar más recomendadas para SaaS.</li>
+  </ul>
+
+  <details>
+    <summary>Ver cláusula modelo de arbitraje (en inglés)</summary>
+    <p class="clause">Arbitration &amp; Class Action Waiver. Any dispute arising out of or
+    relating to these Terms or the Service shall be resolved through final and binding
+    individual arbitration, rather than in court, except that you may assert claims in
+    small claims court if they qualify. You and [Company] waive any right to a jury trial
+    and to participate in a class, collective, or representative action. The arbitration
+    shall be administered by [AAA/JAMS] under its applicable rules.</p>
+    <p class="note">Nota: ajusta el administrador (AAA, JAMS), la sede y la ley aplicable
+    con tu abogado.</p>
+  </details>
+
+  <h2 id="p3">3. Etiquetas de privacidad (Apple, Google y CCPA)</h2>
+
+  <h3>El riesgo</h3>
+  <p>Apple (App Privacy) y Google (Data Safety) te obligan a listar cada tipo de dato que
+  recolectas. Si usas Google Analytics, Meta Pixel u otra herramienta de tracking y no lo
+  declaras:</p>
+  <ul>
+    <li>Apple o Google pueden bajarte de la tienda.</li>
+    <li>En California te expones a la CCPA.</li>
+  </ul>
+
+  <h3>El matiz de la CCPA</h3>
+  <p>Las etiquetas de las tiendas aplican a <strong>todos</strong>, sin importar el
+  tamaño. La CCPA, en cambio, tiene umbrales: aplica a negocios que cumplan al menos uno
+  de estos (ingresos anuales sobre ~$25M, datos de 100,000+ consumidores/hogares, o que
+  ganen 50%+ de sus ingresos vendiendo datos). Un SaaS recién lanzado normalmente aún no
+  cae bajo CCPA — pero las etiquetas de Apple/Google sí lo obligan igual desde el día
+  uno.</p>
+
+  <h3>La solución (paso a paso)</h3>
+  <ol>
+    <li>Haz un inventario de todo SDK/herramienta que toque datos: Analytics, Pixel,
+    Crashlytics, ads, pagos, etc.</li>
+    <li>Completa la sección <strong>App Privacy</strong> en App Store Connect (Apple).</li>
+    <li>Completa la sección <strong>Data Safety</strong> en Google Play Console.</li>
+    <li>Publica una Política de Privacidad coherente con lo que declaraste.</li>
+    <li>Si aplicas a CCPA, añade el aviso "Do Not Sell or Share My Personal
+    Information".</li>
+  </ol>
+
+  <h3>Links de referencia</h3>
+  <ul>
+    <li>Apple App Privacy Details:
+      <a href="https://developer.apple.com/app-store/app-privacy-details/" target="_blank" rel="noopener">developer.apple.com/app-store/app-privacy-details</a></li>
+    <li>Google Play Data Safety:
+      <a href="https://support.google.com/googleplay/android-developer/answer/10787469" target="_blank" rel="noopener">support.google.com/…/answer/10787469</a></li>
+    <li>CCPA (Fiscalía de California):
+      <a href="https://oag.ca.gov/privacy/ccpa" target="_blank" rel="noopener">oag.ca.gov/privacy/ccpa</a></li>
+  </ul>
+
+  <h2 id="p4">4. Agente DMCA — la más barata y la más poderosa</h2>
+
+  <h3>El riesgo</h3>
+  <p>Si tu app permite a los usuarios subir contenido (imágenes, videos, audio, PDFs) y
+  alguien sube algo con derechos de autor, la responsabilidad puede caer sobre ti. Los
+  daños estatutarios por infracción dolosa llegan hasta <strong>$150,000 por
+  obra</strong>.</p>
+
+  <h3>La solución (el famoso "$6")</h3>
+  <p>La Sección 512 de la DMCA crea un <em>safe harbor</em> (refugio legal): si registras
+  un agente DMCA y respondes a los avisos de retiro (takedown), la responsabilidad se
+  traslada a quien subió el contenido, no a ti.</p>
+
+  <h3>Paso a paso</h3>
+  <ol>
+    <li>Entra a copyright.gov → Directorio de Agentes DMCA.</li>
+    <li>Crea una cuenta y designa tu agente.</li>
+    <li>Paga la tarifa de $6.</li>
+    <li>Renueva cada 3 años (la designación expira si no la renuevas).</li>
+    <li>Añade a tus Términos una política de takedown con instrucciones de contacto del
+    agente.</li>
+    <li>Cuando recibas un aviso válido, retira el contenido con prontitud.</li>
+  </ol>
+
+  <div class="good">✅ Es de las mejores relaciones costo-beneficio que existen: ~$6
+  pueden bloquear cientos de miles en exposición.</div>
+
+  <details>
+    <summary>Ver cláusula modelo de DMCA / Takedown (en inglés)</summary>
+    <p class="clause">DMCA / Copyright Policy. We respect intellectual property rights. If
+    you believe content on the Service infringes your copyright, send a notice to our
+    Designated Agent including: (1) your signature; (2) identification of the copyrighted
+    work; (3) identification of the infringing material and its location; (4) your contact
+    information; (5) a statement of good-faith belief that the use is unauthorized; and (6)
+    a statement, under penalty of perjury, that the information is accurate and you are
+    authorized to act. Designated Agent: [Name], [Email], [Address]. We will remove
+    infringing material promptly upon a valid notice and may terminate repeat
+    infringers.</p>
+  </details>
+
+  <h3>Links de referencia</h3>
+  <ul>
+    <li>Directorio de Agentes DMCA (copyright.gov):
+      <a href="https://www.copyright.gov/dmca-directory/" target="_blank" rel="noopener">copyright.gov/dmca-directory</a></li>
+    <li>Sección 512 de la DMCA:
+      <a href="https://www.copyright.gov/512/" target="_blank" rel="noopener">copyright.gov/512</a></li>
+  </ul>
+
+  <h2 id="final">✅ Checklist final</h2>
+  <ul class="checklist">
+    <li>Revisé que todos mis claims de IA sean reales y demostrables</li>
+    <li>Agregué cláusula de arbitraje + renuncia a colectivas en mis ToS</li>
+    <li>Completé App Privacy (Apple) y Data Safety (Google)</li>
+    <li>Publiqué una Política de Privacidad coherente con lo declarado</li>
+    <li>Verifiqué si aplico a CCPA y agregué el aviso si corresponde</li>
+    <li>Registré mi agente DMCA en copyright.gov ($6)</li>
+    <li>Puse recordatorio para renovar el DMCA en 3 años</li>
+    <li>Agregué la política de takedown a mis Términos</li>
+  </ul>
+
+  <div class="disclaimer">
+    <strong>⚠️ Recordatorio final:</strong> esto es un checklist educativo, no asesoría
+    legal. Las plantillas son modelos de partida; que un abogado las revise y adapte a tu
+    caso antes de publicarlas.
+  </div>
+
+  <footer>
+    <p>Preparado para la comunidad de <strong>Erik Taveras</strong> / Taveras Solutions,
+    LLC.</p>
+  </footer>
+
+</body>
+</html>
