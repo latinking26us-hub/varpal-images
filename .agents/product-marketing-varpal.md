@@ -5,7 +5,7 @@
 
 ## Product Overview
 **One-liner:** Empresa de freight forwarding / courier que envía carga desde Miami hacia Venezuela.
-**What it does:** VARPAL recibe paquetes y carga en su casillero de Miami y los transporta hasta Venezuela, con salidas programadas por vía aérea y marítima, cobrando por peso volumétrico.
+**What it does:** VARPAL recibe paquetes y carga en su casillero de Miami y los transporta **puerta a puerta** hasta Venezuela, con salidas programadas por vía aérea y marítima, cobrando por peso volumétrico. El "puerta a puerta" es una decisión de posicionamiento explícita del negocio, no solo un dato operativo: muchos couriers del mercado entregan en oficina/punto de retiro y dejan al cliente la última milla; VARPAL la asume.
 **Product category:** [GAP] — ¿cómo te buscan tus clientes en Google/redes? ¿"casillero Miami Venezuela", "envíos a Venezuela", "courier Venezuela"?
 **Product type:** Servicio de logística / freight forwarding (B2C y B2B, consumo recurrente).
 **Business model:** Cobro por envío, tarifado por peso volumétrico. [GAP] ¿tarifa plana, por libra, por pie cúbico? ¿hay planes o membresías?
@@ -44,15 +44,18 @@
 **Indirect:** Comprar directamente en Venezuela cuando existe la opción — más caro y con menos variedad, pero sin el riesgo del envío.
 
 ## Differentiation
-**Key differentiators:**
+**Key differentiators (de mayor a menor peso en el posicionamiento elegido por el negocio):**
+- **Entrega puerta a puerta** — el diferenciador central y elegido a propósito. Muchos couriers del mercado entregan en oficina/punto de retiro; VARPAL se hace cargo de la última milla hasta la dirección final en Venezuela.
 - Calendario de salidas fijo y publicado: jueves vía marítima, viernes vía aérea (transparencia de fechas de corte) — frente a couriers grandes donde el cliente no sabe cuándo sale realmente su carga
 - Explicación pública de cómo se calcula el peso volumétrico (transparencia de tarifas) — ataca directo la queja #1 del mercado: fees sorpresa después del pago
 - Atención directa por WhatsApp Business — ataca la queja #2 del mercado: servicio al cliente que desaparece
 - Maneja carga personal, comercial **y vehículos** — cobertura más amplia que la mayoría de couriers de paquetería
 - Testimonios de clientes ya usados en campañas
-**How we do it differently:** Donde los "monstruos grandes" (Zoom, Trans Express/LAAR, Aeropost) compiten en tamaño de marca, VARPAL compite en algo que las reseñas dicen que ellos no dan: alguien que contesta y una tarifa que no cambia después de pagar.
-**Why that's better:** Un cliente no necesita la empresa más grande, necesita la que no lo deja esperando cuando algo sale mal — y esa es justo la fricción documentada contra los líderes del mercado.
+**How we do it differently:** Donde los "monstruos grandes" (Zoom, Trans Express/LAAR, Aeropost) compiten en tamaño de marca, VARPAL compite en solidez de servicio puerta a puerta y en algo que las reseñas dicen que ellos no dan: alguien que contesta y una tarifa que no cambia después de pagar.
+**Why that's better:** Un cliente no necesita la empresa más grande, necesita la que entrega hasta la puerta sin dejarlo colgado a mitad de camino — y esa es justo la fricción documentada contra los líderes del mercado.
 **Why customers choose us:** [GAP — falta la voz directa del cliente; útil tomarla del testimonio ya usado en POST8]
+
+**Posicionamiento elegido (frase ancla):** "La compañía de envíos puerta a puerta más sólida y efectiva del mercado." Esta frase debe ser el hilo conductor de las próximas piezas de `social`, `ads` y `copywriting` para VARPAL — no es una entre varias opciones, es la que el propio negocio decidió.
 
 ## Objections
 | Objection | Response |
@@ -99,11 +102,12 @@
 | Confiabilidad de fechas | Calendario de salidas publicado (jueves marítimo, viernes aéreo) |
 
 ## Goals
-**Business goal:** Dado que la objeción #1 es desconocimiento de marca (no precio, no desconfianza), el objetivo central de marketing en este momento es **awareness/reconocimiento de marca** — que más gente en el nicho sepa que VARPAL existe, ya que la retención una vez prueban es fuerte. [GAP] confirmar si además hay una meta numérica (ej. X envíos/mes, entrar a nuevas ciudades de Venezuela).
+**Business goal:** Aumentar clientes e ingresos, posicionando a VARPAL como **la compañía de envíos puerta a puerta más sólida y efectiva del mercado** Miami-Venezuela. La estrategia para llegar ahí pasa primero por awareness (la objeción #1 es que no los conocen), y el mensaje central de esa awareness debe ser el "puerta a puerta" sólido y efectivo — es el ángulo de posicionamiento que el propio negocio eligió para diferenciarse de los "monstruos grandes" (Zoom, Trans Express/LAAR, Aeropost).
 **Conversion action:** Contactar por WhatsApp (+1 786-396-3095) para cotizar/enviar.
 **Current metrics:** [GAP]
 
 ## Changelog
 *Newest first.*
+- v3 (2026-08-12) — Se define el posicionamiento central: "envíos puerta a puerta más sólidos y efectivos del mercado", con el objetivo explícito de aumentar clientes e ingresos. Se agrega el dato de que el servicio es puerta a puerta (no entrega en oficina), lo cual ahora es también un diferenciador documentado en la sección de Differentiation.
 - v2 (2026-08-12) — Completadas secciones de tipo de carga (personal, comercial, vehículos), panorama competitivo (Zoom, Trans Express/LAAR, Aeropost — investigado en reseñas públicas), objeción principal (desconocimiento de marca, no precio) y objetivo de negocio (awareness). Fuente: respuestas del dueño + búsqueda web de reseñas de la categoría (ago. 2026). Quedan gaps menores: lenguaje textual de clientes, voz de marca, anti-persona, métricas actuales.
 - v1 (2026-08-12) — Borrador inicial generado automáticamente a partir de privacy.html y nombres de campañas de Instagram en el repo.
