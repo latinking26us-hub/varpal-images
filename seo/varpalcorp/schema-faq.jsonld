@@ -1,0 +1,58 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Cómo envío un paquete de Miami a Venezuela con VARPAL?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nos escribes por WhatsApp al +1 (786) 448-1426, preparas tu carga y la haces llegar a nuestro almacén en Miami. Nosotros la enviamos puerta a puerta a Venezuela y te damos tracking en tiempo real."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Cuánto tarda un envío de Miami a Venezuela?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El envío aéreo entrega en 3 a 5 días, con salidas todos los viernes. El envío marítimo, ideal para carga grande y voluminosa, tiene salidas los jueves y tiempos mayores."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Aéreo o marítimo? ¿Cuál me conviene?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El aéreo es rápido y ideal para lo urgente o cargas pequeñas. El marítimo es más económico y conviene para mudanzas, muebles y carga voluminosa. Te asesoramos según tu caso por WhatsApp."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Qué puedo enviar a Venezuela?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Puedes enviar electrodomésticos, ropa, medicamentos, tecnología, alimentos no perecederos y juguetes, entre otros. No se permiten líquidos inflamables ni armas. Si tienes dudas con un artículo, pregúntanos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿VARPAL tiene casillero en Miami?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí. Puedes comprar en tiendas de Estados Unidos y usar tu casillero en Miami. Recibimos tus compras, las consolidamos y las enviamos a tu destino en Venezuela."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Puedo rastrear mi envío?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, ofrecemos tracking 24/7 desde Miami hasta la puerta de destino, con notificaciones en cada etapa y confirmación de entrega."
+      }
+    }
+  ]
+}
+</script>
+<!-- Colocar en la página de preguntas frecuentes (o en la home). Mantener las respuestas
+     iguales al texto visible en la página. SIN precios (política de marca). -->
