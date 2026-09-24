@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://varpalcorp.com/#organization",
+  "name": "VARPAL Group Corporation",
+  "alternateName": "Varpal Group",
+  "url": "https://varpalcorp.com",
+  "logo": "https://varpalcorp.com/logo.png",
+  "email": "info@varpalcorp.com",
+  "telephone": "+1-786-448-1426",
+  "description": "Courier y freight forwarding de Miami a Venezuela. Envíos puerta a puerta, carga aérea y marítima, casillero en Miami y tracking en tiempo real.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Miami",
+    "addressRegion": "FL",
+    "addressCountry": "US"
+  },
+  "areaServed": [
+    { "@type": "Country", "name": "United States" },
+    { "@type": "Country", "name": "Venezuela" }
+  ],
+  "knowsLanguage": ["es", "en"],
+  "sameAs": [
+    "https://www.instagram.com/varpalcorp"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+1-786-448-1426",
+    "contactType": "customer service",
+    "areaServed": ["US", "VE"],
+    "availableLanguage": ["Spanish", "English"]
+  }
+}
+</script>
+<!--
+  NOTA: rellenar antes de publicar:
+  - logo: subir el logo real a esa URL (o ajustar la ruta).
+  - address: agregar streetAddress si hay dirección pública real (si no, dejar solo ciudad/estado).
+  - sameAs: añadir Facebook, TikTok, LinkedIn, etc. (solo URLs que EXISTAN de verdad).
+  Colocar este bloque en el <head> de TODAS las páginas de varpalcorp.com.
+-->
