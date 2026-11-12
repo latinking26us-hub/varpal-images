@@ -188,7 +188,7 @@ def build_queue(commit: str, output: Path) -> None:
                 post["hashtags"] = hashtags
                 post["alt_text"] = f"Pieza informativa de VARPAL sobre {slug.replace('-', ' ')}."
             else:
-                post["alt_text_interno"] = f"Story de VARPAL: {headline} {cta}."
+                post["alt_text_interno"] = f"Story de VARPAL: {headline} {fact} {cta}."
             posts.append(post)
     output.write_text(json.dumps(posts, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
