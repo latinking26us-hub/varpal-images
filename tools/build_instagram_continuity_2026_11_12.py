@@ -68,7 +68,7 @@ TOPICS = [
         "¿Pediste recogida sin registro?",
         "Escríbeme CASILLERO por WhatsApp",
         "recogida-confirmada",
-        "Abre primero tu casillero; después se confirman cobertura, costo y horario de recogida.",
+        "Abre primero tu casillero; después confirmamos cobertura, costo y horario de recogida.",
         "CASILLERO",
     ),
     (
